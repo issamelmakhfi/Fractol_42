@@ -1,4 +1,4 @@
-# Fracto_42
+# Fractol_42
 
 ## Summary
 The term fractal was first used by mathematician Benoit Mandelbrot in 1974. He based
